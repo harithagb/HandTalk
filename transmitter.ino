@@ -2,6 +2,8 @@
 #undef int()
 #include <stdlib.h>
 #include <SPI.h> // Not actually used but needed to compile
+
+
 int flexPin1 = A0;
 int flexPin2 = A1;
 int flexPin3 = A2;
@@ -29,7 +31,7 @@ void setup()
 {
   // put your setup code here, to run once:
   Serial.begin(9600);    // Debugging only
-  pinMode(6, OUTPUT); //check this
+  pinMode(6, OUTPUT); 
  driver.init(); 
   if (!driver.init())
          Serial.println("init failed");
