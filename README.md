@@ -30,5 +30,5 @@ The difference in our project lies in the emergency message sent to the specifie
 3) Ambika Gujrati, Kartigya Singh,Khushboo,Lovika Soral, Mrs. Ambikapathy,
 ”Hand-talk Gloves with Flex Sensor: A Review”
 
-4)”Design of Smart Gloves”,Ms. Pallavi Verma,M.E. Scholar, EE, NITTTR Chandigarh
+4) ”Design of Smart Gloves”,Ms. Pallavi Verma,M.E. Scholar, EE, NITTTR Chandigarh
 Mrs. Shimi S.L.Assistant Professor, EE NITTTR Chandigarh, Dr. S. Chatterji,Professor and Head, EE NITTTR Chandigarh
