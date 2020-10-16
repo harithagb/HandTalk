@@ -10,6 +10,7 @@ The Hand Talk glove is a normal glove fitted with flex sensors. The sensors give
 Our project, HandTalk, translates hand gestures into a message. Flex Sensors are sewn onto the glove pick up the gesture made by the individual and then with the help of the Arduino, the analogue input is converted to digital for various gestures. For every particular gesture, there is specific digital output and that the digital output for the specific gesture is reserved for a specific message. So, when the individual does that particular gesture, the predefined message for that gesture is displayed on the LCD along with a beep(sound).
 
 Given below is the block diagram for the same:
+
 ![alt text](https://i.ibb.co/BLgDgB8/image.png)
 
 This implementation heavily borrows from Hadeel Ayoub's implementation of SignLanguageGlove, from Goldsmith University, London and HandTalk from Carnegie Mello University by Bhargav Bhat, Hemant Sikaria, Jorge L. Meza and Wesley Jin (https://course.ece.cmu.edu/~ece549/spring08/team12/).
